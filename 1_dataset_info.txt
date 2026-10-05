@@ -1,0 +1,34 @@
+--- Data Overview ---
+Dataset Shape: (20109, 7)
+Columns: ['comment', 'label', 'Race', 'Religion', 'Gender', 'Sexual Orientation', 'Miscellaneous']
+
+ --- variable info ---
+               Column   Dtype
+0             comment  object
+1               label  object
+2                Race  object
+3            Religion  object
+4              Gender  object
+5  Sexual Orientation  object
+6       Miscellaneous  object
+
+
+ --- missing value count ---
+comment                   0
+label                     0
+Race                      0
+Religion                  0
+Gender                    0
+Sexual Orientation        0
+Miscellaneous         16576
+
+
+ --- missing value percentage ---
+comment                0.000000
+label                  0.000000
+Race                   0.000000
+Religion               0.000000
+Gender                 0.000000
+Sexual Orientation     0.000000
+Miscellaneous         82.430752
+
